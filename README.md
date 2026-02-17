@@ -90,8 +90,7 @@ Attack concept:
 1. Install XAMPP (or any local PHP server).
 2. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/web-security-mini-lab.git
-
+git clone https://github.com/CAjmnz/Web-Security-Mini-Lab-XSS-SQL-Injection-CSRF-.git
 
 3. Move the project folder to:
 
