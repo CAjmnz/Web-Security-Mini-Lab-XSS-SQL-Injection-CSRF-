@@ -108,13 +108,7 @@ http://localhost/web-security-mini-lab
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of:)
-- XSS alert popup
-- SQL injection login bypass
-- CSRF attack demo
-- Secure versions working correctly
 
 ---
 
